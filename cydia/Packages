@@ -6,11 +6,11 @@ Maintainer: on0z
 Depends: winterboard
 Filename: ./debs/BatmanSignalbar.deb
 Size: 25992
-MD5sum: 8478ce30dd7e9a2e62827342676bc0dd
-SHA1: 2797a908a399ddeb2ccecc88294f690b28964e43
-SHA256: c8e76525ff3a52ef3861fb5f1af679d1a0b755ebf0820804baa8d6424d0c185d
-SHA512: 6e37b63472adb2a6e1dd952cc5ce072d8276d88b4ad2f112dc962fac20a9bd50b3af246f839b67551eb43e8a0f748e96679797ec3f5e0ca8b613739ee1b7ed46
-Homepage: https://on0z.github.io
+MD5sum: 4d84eb417a3958e12c312b80fa899d1f
+SHA1: d9559558ace89a3e6256f2674b81708d54d8f095
+SHA256: 89cd3c77b2e3507e876876ce502d1c3e751586b1eee4882e104af410e9ef92df
+SHA512: fa1673fcafded013df65e8359ec1341f610e1586e630a074510668c136fc9f15fa97ce9757314f0b0a6fafd7c3ae911c2946b71d9dbd5bf6d475867e9c19fe13
+Homepage: https://on0z.github.io/p/com.on0z.batmansignalbar
 Description: コウモリのシグナルのテーマ
 Name: BatmanSignalbar
 Author: on0z
