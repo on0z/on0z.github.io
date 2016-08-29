@@ -1,3 +1,20 @@
+Package: com.on0z.bookmarks
+Architecture: iphoneos-arm
+Version: 6.0.0-2
+Section: Utilities
+Maintainer: on0z
+Depends: firmware (>= 8.4)
+Filename: ./debs/bookmarks.deb
+Size: 8660422
+MD5sum: 908580157481edb17df3cbd44248ed0d
+SHA1: 97a36829a0956e0031448d7b6f2b6ec0f57f40dd
+SHA256: 7da7eb974c09d07812da9cfa8f7a09320497bc4b0336bad8058095676e6b7701
+SHA512: 1dd4382b087be1743bd66770c1f6f23c36394b703c327d3b24e1d45c752d5543655ab859e1163fc23460d3ea15d1bfaf35e6be3bf9faf93035aed66e5da509f3
+Description: bookmarksアプリ canary channel
+Name: bookmarks
+Author: on0z
+Icon: https://on0z.github.io/p/com.on0z.bookmarks/icon.png
+
 Package: com.on0z.batmansignalbar
 Architecture: iphoneos-arm
 Version: 0.2
