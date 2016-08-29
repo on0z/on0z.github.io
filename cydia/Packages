@@ -1,1 +1,16 @@
+Package: com.on0z.batmansignalbar
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Themes
+Maintainer: on0z
+Filename: ./debs/BatmanSignalbar.deb
+Size: 26384
+MD5sum: c3e46f629a50e799ac670275a1f1c9df
+SHA1: ad31e5d1bdf097b39477addbc7d48b700af43d9e
+SHA256: b1015a73e08e21c6cd5ff750dfa48033d4cf7139e448747117615be9f2a80f8b
+SHA512: 477822308d58eaeef543c46cf68782a8c35eb7a0cbf5e1755111a32b53911e4a78b907790087b74255ace386816c06472d513aa907946a0a2a7fa5d7a6019a30
+Homepage: https://on0z.github.io
+Description: コウモリのシグナルのテーマ
+Name: BatmanSignalbar
+Author: on0z
 
