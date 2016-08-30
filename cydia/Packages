@@ -4,7 +4,7 @@ Version: 6.0.0-2
 Section: Utilities
 Maintainer: on0z
 Depends: firmware (>= 8.4)
-Filename: ./debs/bookmarks.deb
+Filename: ./debs/bookmarks_6.0.0-2c.deb
 Size: 8660422
 MD5sum: 908580157481edb17df3cbd44248ed0d
 SHA1: 97a36829a0956e0031448d7b6f2b6ec0f57f40dd
@@ -31,4 +31,21 @@ Homepage: https://on0z.github.io/p/com.on0z.batmansignalbar
 Description: コウモリのシグナルのテーマ
 Name: BatmanSignalbar
 Author: on0z
+
+Package: com.on0z.bookmarks
+Architecture: iphoneos-arm
+Version: 6.0.0-3
+Section: Utilities
+Maintainer: on0z
+Depends: firmware (>= 8.4)
+Filename: ./debs/bookmarks_6.0.0-3c.deb
+Size: 6666680
+MD5sum: 4562b832ea55ac56a63870aec9a53a1b
+SHA1: 20fb0c71dcb7365b49aee0afadf340edf8ead455
+SHA256: b0166aed45a818af0907d3fbb12ae6aa4cfe2fa63a165eae08cef81bcd77aea7
+SHA512: 7be189bfdbb161d1bdf07371f06e19fc808d93ecb1f8d7f1aade935a9fa15b9fed038f321d761ef9be991488cc1e13a9c91d2a6697722b810ab5f7b01253026d
+Description: bookmarksアプリ canary channel
+Name: bookmarks
+Author: on0z
+Icon: https://on0z.github.io/p/com.on0z.bookmarks/icon.png
 
